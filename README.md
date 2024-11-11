@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananya Teshome</h1>
 <h3 align="center">I’m a passionate Software Engineer with a focus on Frontend Development. Based in Ethiopia, I love creating beautiful, responsive, and user-friendly web applications. I specialize in React.js, JavaScript, HTML5, CSS3, and UI/UX Design. Always eager to learn new technologies, improve my skills, and contribute to building better digital experiences.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuteshome" alt="anuteshome" /></a> </p>
 
 - 🔭 I’m currently working on **RESL Banking System**
 
