@@ -39,6 +39,3 @@ Thank you for taking the time to explore my GitHub profile. I look forward to th
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact" alt="anuteshome" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuteshome&show_icons=true&locale=en" alt="anuteshome" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuteshome&" alt="anuteshome" /></p>
