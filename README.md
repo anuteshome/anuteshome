@@ -40,4 +40,4 @@ Thank you for taking the time to explore my GitHub profile. I look forward to th
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact" alt="anuteshome" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact" alt="anuteshome" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anuteshome&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Ananya's GitHub Streak](https://streak-stats.demolab.com?user=anuteshome&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)
