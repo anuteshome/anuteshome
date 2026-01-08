@@ -40,8 +40,4 @@ Thank you for taking the time to explore my GitHub profile. I look forward to th
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact" alt="anuteshome" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact" alt="anuteshome" /></p>
 
-<!-- Add this below the top-langs -->
-<h3 align="left">🔥 My Contribution Streak</h3>
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=anuteshome&theme=radical&hide_border=true" alt="Ananya's GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anuteshome&theme=dark&hide_border=true" alt="GitHub Streak" /></a>>
