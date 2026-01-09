@@ -42,8 +42,12 @@ Thank you for taking the time to explore my GitHub profile. I look forward to th
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anuteshome" /></p>
 
-<!-- 🔥 GitHub Streak Stats -->
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- 🔥 GitHub Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anuteshome&theme=radical&hide_border=true&border_radius=10&date_format=M+j%5B%2C+Y%5D" alt="GitHub Streak" width="500" />
 </p>
-
