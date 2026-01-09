@@ -44,5 +44,6 @@ Thank you for taking the time to explore my GitHub profile. I look forward to th
 
 <h3 align="center">🔥 My GitHub Streak</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anuteshome&theme=dracula&hide_border=true" />
+ <img src="https://streak-stats.demolab.com/?user=anuteshome" />
+
 </p>
