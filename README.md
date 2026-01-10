@@ -40,6 +40,6 @@ Thank you for taking the time to explore my GitHub profile. I look forward to th
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact" alt="anuteshome" /></p> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact" alt="anuteshome" /></p> -->
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anuteshome" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anuteshome" /></p> 
 
 =
