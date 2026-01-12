@@ -26,7 +26,7 @@ Thank you for taking the time to explore my GitHub profile. I look forward to th
 <a href="https://fb.com/ananya teshome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ananya teshome" height="30" width="40" /></a>
 <a href="https://dribbble.com/anu-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="anu-t" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/anu-t995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anu-t995" height="30" width="40" /></a>
-<a href="https://discord.gg/AnanyaT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AnanyaT" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/AnanyaT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AnanyaT" height="30" width="40" /></a> -->
 </p>
 
 - 🔭 I’m currently working on **RESL Banking System**
