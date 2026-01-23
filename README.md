@@ -1,4 +1,4 @@
-  # Hello👋 I'm Ananya Teshome
+  # Hello👋 I'm Ananya Teshomer
 👨‍💻 I'm an enthusiastic software developer specializing in frontend development. Recently, I completed a comprehensive 12-month full-stack software engineering program at ALX, where I gained in-depth knowledge and hands-on experience in building responsive and engaging web applications.
 
 🌟 Throughout the program, I honed my skills in HTML, CSS, JavaScript, and modern frontend frameworks like React. I also developed proficiency in using design tools and implementing user-friendly interfaces that provide an exceptional user experience. Additionally, I have experience working with APIs, state management, and optimizing web performance to create seamless, efficient applications.
