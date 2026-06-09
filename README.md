@@ -43,3 +43,7 @@ Thank you for taking the time to explore my GitHub profile. I look forward to th
   <img src="https://streak-stats.demolab.com?user=anuteshome&theme=tokyonight&cache_seconds=3600" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anuteshome&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
