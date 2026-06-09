@@ -37,9 +37,9 @@ Thank you for taking the time to explore my GitHub profile. I look forward to th
 
 - 📫 How to reach me **ananyateshome2@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact" alt="anuteshome" /></p> 
-<<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact" alt="anuteshome" /></p> 
+## 🔥 GitHub Streak
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuteshome&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anuteshome" /></p>  
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuteshome&theme=tokyonight" />
+</p>
 =
