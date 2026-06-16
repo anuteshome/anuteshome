@@ -1,13 +1,13 @@
   # Hello👋 I'm Ananya Teshome.
 👨‍💻 I'm an enthusiastic software developer specializing in frontend development. Recently, I completed a comprehensive 12-month full-stack software engineering program at ALX, where I gained in-depth knowledge and hands-on experience in building responsive and engaging web applications.
 
-🌟 Throughout the program, I honed my skills in HTML, CSS, JavaScript, and modern frontend frameworks like React. I also developed proficiency in using design tools and implementing user-friendly interfaces that provide an exceptional user experience. Additionally, I have experience working with APIs, state management, and optimizing web performance to create seamless, efficient applications.
+ Throughout the program, I honed my skills in HTML, CSS, JavaScript, and modern frontend frameworks like React. I also developed proficiency in using design tools and implementing user-friendly interfaces that provide an exceptional user experience. Additionally, I have experience working with APIs, state management, and optimizing web performance to create seamless, efficient applications.
 
-🚀 I'm eager to apply my knowledge and contribute to exciting projects that focus on the user experience and innovative design. I'm a quick learner, problem-solver, and enjoy collaborating with others to bring ideas to life through code.
+ I'm eager to apply my knowledge and contribute to exciting projects that focus on the user experience and innovative design. I'm a quick learner, problem-solver, and enjoy collaborating with others to bring ideas to life through code.
 
-🌱 Currently, I'm seeking opportunities to kick-start my professional journey as a frontend developer. I'm open to both full-time positions and internships that will allow me to continue learning and growing in a supportive environment.
+ Currently, I'm seeking opportunities to kick-start my professional journey as a frontend developer. I'm open to both full-time positions and internships that will allow me to continue learning and growing in a supportive environment.
 
-📫 If you have any interesting opportunities or would like to connect, please feel free to reach out to me via LinkedIn. I'm eager to connect with professionals in the industry and exchange ideas.
+ If you have any interesting opportunities or would like to connect, please feel free to reach out to me via LinkedIn. I'm eager to connect with professionals in the industry and exchange ideas.
 
 🌐 Please explore my GitHub repositories below to see some of the projects I have worked on during my program. I'm continuously updating my skills and working on new projects, so stay tuned for more exciting developments!
 
