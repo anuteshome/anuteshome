@@ -32,11 +32,6 @@ Thank you for taking the time to explore my GitHub profile. I look forward to th
 
 - 📫 How to reach me **ananyateshome2@gmail.com**
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuteshome&theme=tokyonight" /> -->
-  <img src="https://streak-stats.demolab.com?user=anuteshome&theme=tokyonight&cache_seconds=3600" />
-</p>
 
 
