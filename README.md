@@ -1,37 +1,55 @@
-  # Hello👋 I'm Ananya Teshome
-👨‍💻 I'm an enthusiastic software developer specializing in frontend development. Recently, I completed a comprehensive 12-month full-stack software engineering program at ALX, where I gained in-depth knowledge and hands-on experience in building responsive and engaging web applications.
+# Hello 👋 I'm Ananya Teshome
 
- Throughout the program, I honed my skills in HTML, CSS, JavaScript, and modern frontend frameworks like React. I also developed proficiency in using design tools and implementing user-friendly interfaces that provide an exceptional user experience. Additionally, I have experience working with APIs, state management, and optimizing web performance to create seamless, efficient applications.
+### Backend Developer | Python • Laravel • NestJS • Frappe
 
- If you have any interesting opportunities or would like to connect, please feel free to reach out to me via LinkedIn. I'm eager to connect with professionals in the industry and exchange ideas.
+👨‍💻 I'm a software developer with a growing focus on **backend development** and building reliable, maintainable web applications and APIs.
 
- Please explore my GitHub repositories below to see some of the projects I have worked on during my program. I'm continuously updating my skills and working on new projects, so stay tuned for more exciting developments!
+🎓 I completed the **12-month ALX Full-Stack Software Engineering program**, where I built a strong foundation in software engineering, frontend and backend development, databases, APIs, Git, Linux, and collaborative development.
 
-Thank you for taking the time to explore my GitHub profile. I look forward to the journey ahead as a frontend developer and the chance to contribute to amazing projects. Let's connect and make a difference through technology! 😊
+🚀 Currently, I'm expanding my backend expertise by working with technologies such as **Python, Frappe, Laravel, NestJS, Node.js, PostgreSQL, and MySQL**. I also work with **Next.js, React, TypeScript, and JavaScript**, giving me the ability to understand and contribute across the full stack.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+💡 I'm particularly interested in:
 
+- Backend Engineering
+- REST API Development
+- Database Design
+- Authentication & Authorization
+- Clean and Maintainable Code
+- Scalable Web Applications
+- Learning System Design & Software Architecture
 
+🌱 I'm continuously improving my knowledge of **Python, NestJS, Frappe, backend architecture, and scalable application development** while building real-world projects.
 
+🤝 I'm always open to connecting with other developers, collaborating on interesting projects, and learning from the developer community.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ananya teshome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya teshome" height="30" width="40" /></a>
-<a href="https://fb.com/ananya teshome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ananya teshome" height="30" width="40" /></a>
-<a href="https://dribbble.com/anu-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="anu-t" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anu-t995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anu-t995" height="30" width="40" /></a>
-<a href="https://discord.gg/AnanyaT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AnanyaT" height="30" width="40" /></a>
-</p>.
+Feel free to explore my repositories and follow my journey as I continue building and improving as a software engineer. 🚀
 
-- 🔭 I’m currently working on **RESL Banking System**
+---
 
-- 🌱 I’m currently learning **Mern stuck Mastering**
+### 🛠️ Languages & Tools
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JAVASCRIPT,NODE...**
+**Backend**
 
-- 📫 How to reach me **ananyateshome2@gmail.com**
+`Python` • `PHP` • `Laravel` • `NestJS` • `Node.js` • `Frappe`
 
+**Frontend**
 
+`JavaScript` • `TypeScript` • `React` • `Next.js` • `HTML` • `CSS` • `Tailwind CSS`
 
+**Databases**
 
+`PostgreSQL` • `MySQL` • `MongoDB`
+
+**Tools & Technologies**
+
+`Git` • `GitHub` • `Linux` • `REST APIs` • `Postman`
+
+---
+
+### 📫 Let's Connect
+
+I'm always interested in discussing **backend development, software engineering, APIs, and interesting projects**.
+
+💼 **LinkedIn:** [Add your LinkedIn URL]
+
+⭐ Feel free to explore my repositories and connect with me!
