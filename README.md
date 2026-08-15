@@ -22,7 +22,7 @@
 
  I'm always open to connecting with other developers, collaborating on interesting projects, and learning from the developer community.
 
-Feel free to explore my repositories and follow my journey as I continue building and improving as a software engineer. 🚀
+Feel free to explore my repositories and follow my journey as I continue building and improving as a software engineer. 
 
 ---
 ### 🛠️ Languages & Technologies
