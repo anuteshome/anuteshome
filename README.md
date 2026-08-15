@@ -50,6 +50,6 @@ Feel free to explore my repositories and follow my journey as I continue buildin
 
 I'm always interested in discussing **backend development, software engineering, APIs, and interesting projects**.
 
-💼 **LinkedIn:** [Add your LinkedIn URL]
+💼 **LinkedIn:** in/ananya-teshome
 
 ⭐ Feel free to explore my repositories and connect with me!
