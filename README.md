@@ -6,9 +6,9 @@
 
 🎓 I completed the **12-month ALX Full-Stack Software Engineering program**, where I built a strong foundation in software engineering, frontend and backend development, databases, APIs, Git, Linux, and collaborative development.
 
-🚀 Currently, I'm expanding my backend expertise by working with technologies such as **Python, Frappe, Laravel, NestJS, Node.js, PostgreSQL, and MySQL**. I also work with **Next.js, React, TypeScript, and JavaScript**, giving me the ability to understand and contribute across the full stack.
+ Currently, I'm expanding my backend expertise by working with technologies such as **Python, Frappe, Laravel, NestJS, Node.js, PostgreSQL, and MySQL**. I also work with **Next.js, React, TypeScript, and JavaScript**, giving me the ability to understand and contribute across the full stack.
 
-💡 I'm particularly interested in:
+ I'm particularly interested in:
 
 - Backend Engineering
 - REST API Development
@@ -18,9 +18,9 @@
 - Scalable Web Applications
 - Learning System Design & Software Architecture
 
-🌱 I'm continuously improving my knowledge of **Python, NestJS, Frappe, backend architecture, and scalable application development** while building real-world projects.
+ I'm continuously improving my knowledge of **Python, NestJS, Frappe, backend architecture, and scalable application development** while building real-world projects.
 
-🤝 I'm always open to connecting with other developers, collaborating on interesting projects, and learning from the developer community.
+ I'm always open to connecting with other developers, collaborating on interesting projects, and learning from the developer community.
 
 Feel free to explore my repositories and follow my journey as I continue building and improving as a software engineer. 🚀
 
@@ -74,11 +74,3 @@ Feel free to explore my repositories and follow my journey as I continue buildin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS" title="NestJS"/>
 </p>
 
-
-### 📫 Let's Connect
-
-I'm always interested in discussing **backend development, software engineering, APIs, and interesting projects**.
-
-💼 **LinkedIn:** [in/ananya-teshome]
-
-⭐ Feel free to explore my repositories and connect with me!
