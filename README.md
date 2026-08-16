@@ -2,7 +2,7 @@
 
 ### Backend Developer | Python • Laravel • NestJS • Frappe
 
-👨‍💻 I'm a software developer with a growing focus on **backend development** and building reliable, maintainable web applications and APIs.
+👨‍💻 I'm a full stack software developer with a growing focus on **backend development** and building reliable, maintainable web applications and APIs.
 
 🎓 I completed the **12-month ALX Full-Stack Software Engineering program**, where I built a strong foundation in software engineering, frontend and backend development, databases, APIs, Git, Linux, and collaborative development.
 
