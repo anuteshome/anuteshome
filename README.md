@@ -1,6 +1,6 @@
 # Hello 👋 I'm Ananya Teshome
 
-### Software Developer | Python • Laravel • NestJS • Frappe • Flutter • NextJs
+### Software Developer | Python • Laravel • NestJS • Flutter • NextJs
 
 👨‍💻 I'm a full stack software developer with a growing focus on **backend development** and building reliable, maintainable web applications and APIs.
 
